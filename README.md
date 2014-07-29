@@ -9,4 +9,4 @@ ComputerProperty模仿了Ember的计算属性功能。
 
 ReactTemplate则模仿了React的模板功能。
 
-Router是一个现代版的路由器。
+Router是一个现代版的路由器，是AbsurdJS的一部分。
