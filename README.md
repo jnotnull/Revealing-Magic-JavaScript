@@ -8,3 +8,5 @@ Injector模仿AngularJS实现了依赖注入功能。通过依赖注入，很好
 ComputerProperty模仿了Ember的计算属性功能。
 
 ReactTemplate则模仿了React的模板功能。
+
+Router是一个现代版的路由器。
